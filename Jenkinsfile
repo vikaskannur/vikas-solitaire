@@ -24,7 +24,6 @@ node {
           
 }
 
-<<<<<<< HEAD
 def notify(status){
     emailext (
       to: "vikaskrishna@gmail.com",
